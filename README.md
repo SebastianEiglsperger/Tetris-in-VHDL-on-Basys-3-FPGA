@@ -1,4 +1,4 @@
-# Tetris-in-VHDL-on-Basys-3-FPGA
+# Tetris-in-VHDL-on-Digilent-Nexys-A7-FPGA
 
 This project is a simple implementation of the classic Tetris game written in VHDL for the Nexys A7 FPGA development board.
 
